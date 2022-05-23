@@ -1,0 +1,6 @@
+1 exam1 test file
+2 one two three...
+3 line 3
+4 line 4
+5 line 5
+6 line 6
