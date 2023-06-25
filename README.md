@@ -1,2 +1,2 @@
-# NTUEE_Computer_Network
+# Computer_Network
 NTUEE Computer Network programming homework using Golang
